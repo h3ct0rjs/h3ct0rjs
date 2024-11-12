@@ -21,5 +21,8 @@ want to know more... [🗺️](https://devops.com.co/about/)
 
 ### 🔥 Streak 🔥
 
-
-<a href="http://www.github.com/h3ct0rjs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=h3ct0rjs&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=h3ct0rjs&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
+<!---
+hectorjimenezs/hectorjimenezs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
